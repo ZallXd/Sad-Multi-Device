@@ -1,7 +1,7 @@
 ## UNTUK PENGGUNA HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FahriAdison/Sad-Multi-Device)
-
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/ZallXd/Sad-Multi-Device)
+kami
 ### Instal Buildpack
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
