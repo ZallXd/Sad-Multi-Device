@@ -1,6 +1,6 @@
 ## UNTUK PENGGUNA HEROKU
 
-[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/ZallXd/Sad-Multi-Device)
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/ZallXd/Hinata-Md.git)
 kami
 ### Instal Buildpack
 * heroku/nodejs
