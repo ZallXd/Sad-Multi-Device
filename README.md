@@ -9,7 +9,7 @@ kami
 
 ## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FFahri%2FSad-Multi-Device)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FZallXd%2FAlphabot-Md)
 
 ## UNTUK PENGGUNA REPLIT
 
